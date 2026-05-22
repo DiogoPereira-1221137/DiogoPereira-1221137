@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=140&section=header&text=Diogo%20Pereira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=65)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b6e,100:1a6eb5&height=160&section=header&text=Diogo%20Pereira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Software%20Engineer%20%7C%20Master%27s%20%40%20ISEP%20%7C%20Cybersecurity&descSize=16&descAlignY=68&descColor=c8dcff)
 
 ### `Software Engineer` · `Master's @ ISEP` · `Cybersecurity Enthusiast`
 
