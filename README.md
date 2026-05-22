@@ -111,11 +111,11 @@ mantra: "I keep improving things even after they work"
  
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DiogoPereira-1221137&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)
+![GitHub Stats](https://github-readme-stats-eight-orcin-61.vercel.app/api?username=DiogoPereira-1221137&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)
  
 ![GitHub Streak](https://streak-stats.demolab.com?user=DiogoPereira-1221137&theme=shadow-blue&hide_border=false)
- 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DiogoPereira-1221137&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![Top Languages](https://github-readme-stats-eight-orcin-61.vercel.app/api/top-langs/?username=DiogoPereira-1221137&theme=shadow_blue&hide_border=false&layout=compact)
  
 </div>
 ---
