@@ -1,18 +1,11 @@
 <div align="center">
 
-```
-██████╗ ██╗ ██████╗  ██████╗  ██████╗
-██╔══██╗██║██╔═══██╗██╔════╝ ██╔═══██╗
-██║  ██║██║██║   ██║██║  ███╗██║   ██║
-██║  ██║██║██║   ██║██║   ██║██║   ██║
-██████╔╝██║╚██████╔╝╚██████╔╝╚██████╔╝
-╚═════╝ ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝
-```
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=140&section=header&text=Diogo%20Pereira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=65)
 
 ### `Software Engineer` · `Master's @ ISEP` · `Cybersecurity Enthusiast`
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-manuel-pereira/)
-[![Profile Views](https://komarev.com/ghpvc/?username=DiogoPereira-1221137&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=DiogoPereira-1221137&color=blue&style=for-the-badge)
 
 </div>
 
@@ -107,17 +100,38 @@ mantra: "I keep improving things even after they work"
 
 ---
 
+## `> cat ./certifications.json`
+
+```json
+{
+  "security": [
+    "Systems Security",
+    "Network Security",
+    "Computer Networks Fundamentals"
+  ],
+  "platforms": [
+    "Security Center Omnicast™ Technical Certification"
+  ],
+  "programming": [
+    "Python (Basic) — HackerRank"
+  ]
+}
+```
+
+---
+
 ## `> cat ./stats.json`
- 
+
 <div align="center">
-  
+
 ![GitHub Stats](https://github-readme-stats-eight-orcin-61.vercel.app/api?username=DiogoPereira-1221137&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)
- 
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=DiogoPereira-1221137&theme=shadow-blue&hide_border=false)
 
 ![Top Languages](https://github-readme-stats-eight-orcin-61.vercel.app/api/top-langs/?username=DiogoPereira-1221137&theme=shadow_blue&hide_border=false&layout=compact)
- 
+
 </div>
+
 ---
 
 ## `> trophy --fetch`
@@ -141,6 +155,8 @@ mantra: "I keep improving things even after they work"
 ---
 
 <div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=80&section=footer)
 
 **Open to collaborating on:** Cybersecurity · Cloud Automation · Full-Stack Projects · System Integrations
 
