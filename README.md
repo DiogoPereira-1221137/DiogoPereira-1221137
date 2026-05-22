@@ -12,7 +12,7 @@
 ### `Software Engineer` · `Master's @ ISEP` · `Cybersecurity Enthusiast`
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-manuel-pereira/)
-[![Profile Views](https://visitcount.itsvg.in/api?id=DiogoPereira-1221137&icon=0&color=1)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=DiogoPereira-1221137&color=blue&style=for-the-badge)
 
 </div>
 
@@ -22,18 +22,18 @@
 
 ```yaml
 name: Diogo Pereira
-role: Software Engineer & IT Infrastructure Intern @ GLOONE
+role: Software Engineer & IT Infrastructure @ GLOONE
 location: Portugal 🇵🇹
 education:
   - MSc Software Engineering @ ISEP (2025 → present)
   - BSc Computer Science & Engineering @ ISEP (2022 → 2025)
 interests:
-  - Full-Stack Development (.NET + Angular)
+  - Full-Stack Development
   - Cybersecurity & Network Security
   - DevOps & Cloud Automation
   - Systems Integration & Architecture
-current_focus: "Internal ticket management system with Angular + ASP.NET Core + LDAP + ERP Primavera"
-mantra: "I keep improving things even after they work 😅"
+current_focus: "Internal ticket management system and plugins for Genetec"
+mantra: "I keep improving things even after they work"
 ```
 
 ---
